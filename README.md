@@ -1,3 +1,3 @@
 ### Example Output
 
-- [example output.png]
+![Cumulative Returns](example output.png)
